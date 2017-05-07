@@ -1,7 +1,10 @@
 
-## Computer Organization and Architecture
+## Computer Organization and Architecture  
 
-###### Slides from Computer Organization and Architecture, 8th Edition. William Stallings 
+
+
+
+###### Slides from Computer Organization and Architecture, William Stallings, 8th Edition.  
 
 
 #HSLIDE
@@ -108,6 +111,8 @@
 - 140 kW power consumption
 - 5,000 additions per second
 
+#HSLIDE
+
 ### von Neumann/Turing
 
 - Stored Program concept
@@ -149,7 +154,7 @@
 
 ### Growth in CPU Transistor Count
 
-<img src="images/100000000000031F000002B54472A50E.png" height="400"/>
+<img src="images/100000000000031F000002B54472A50E.png" height="500"/>
 
 #HSLIDE
 
@@ -174,7 +179,7 @@
 
 ### Logic and Memory Performance Gap
 
-<img src="images/10000000000002A20000020C32B69568.png" height="400"/>
+<img src="images/10000000000002A20000020C32B69568.png" height="500"/>
 
 #HSLIDE
 
@@ -207,7 +212,7 @@
 
 ### Typical I/O Device Data Rates
 
-<img src="images/100000000000039C0000028D409A3053.png" height="400"/>
+<img src="images/100000000000039C0000028D409A3053.png" height="500"/>
 
 #HSLIDE
 
@@ -229,6 +234,11 @@
 - Increase size and speed of caches
 	- Dedicating part of processor chip 
 		- Cache access times drop significantly
+
+#HSLIDE
+
+### Improvements in Chip Organization and Architecture
+
 - Change processor organization and architecture
 	- Increase effective speed of execution
 	- Parallelism
@@ -240,13 +250,18 @@
 - Power
 	- Power density increases with density of logic and clock speed
 	- Dissipating heat
+- Memory latency
+	- Memory speeds lag processor speeds
+
+#HSLIDE
+
+### Problems with Clock Speed and Login Density
+
 - RC delay
 	- Speed at which electrons flow limited by resistance and capacitance of metal wires connecting them
 	- Delay increases as RC product increases
 	- Wire interconnects thinner, increasing resistance
 	- Wires closer together, increasing capacitance
-- Memory latency
-	- Memory speeds lag processor speeds
 - Solution:
 	- More emphasis on organizational and architectural approaches
 
@@ -254,7 +269,7 @@
 
 ### Intel Microprocessor Performance
 
-<img src="images/1000000000000365000002FE930BBBCF.png" height="400"/>
+<img src="images/1000000000000365000002FE930BBBCF.png" height="500"/>
 
 #HSLIDE
 
