@@ -1,7 +1,7 @@
 
-## Computer Organization and Architecture<sup>1</sup>
+## Computer Organization and Architecture
 
-1 Slides from Computer Organization and Architecture, 8th Edition. William Stallings 
+###### Slides from Computer Organization and Architecture, 8th Edition. William Stallings 
 
 
 #HSLIDE
