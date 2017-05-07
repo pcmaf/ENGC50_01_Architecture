@@ -60,13 +60,17 @@
 
 #HSLIDE
 
-### Operation (c) Processing from/to storage 
+### Operations
+
+- Processing from/to storage 
 
 <img src="images/Untitled_c.png" height="400"/>
 
 #HSLIDE
 
-### Operation (d) Processing from storage to I/O
+### Operations
+
+- Processing from storage to I/O
 
 <img src="images/Untitled_d.png" height="400"/>
 
