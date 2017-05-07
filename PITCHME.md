@@ -1,9 +1,6 @@
 
 ## Computer Organization and Architecture  
 
-
-
-
 ###### Slides from Computer Organization and Architecture, William Stallings, 8th Edition.  
 
 
@@ -46,14 +43,18 @@
 
 #HSLIDE
 
-### Operations (a) Data movement
+### Operations 
+
+- Data movement
 
 <!--![](images/10000201000003A400000618DE1DA1BD.png  =600x) -->
 <img src="images/Untitled_a.png" height="400"/>
 
 #HSLIDE
 
-### Operations (b) Storage 
+### Operations 
+
+- Storage 
 
 <img src="images/Untitled_b.png" height="400"/>
 
